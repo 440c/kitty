@@ -1,2 +1,2 @@
 # clearsocial
-A social media app which clears all posts 24 hours after uploading.
+A privacy-based social media website which deletes posts 24 hours after upload.
