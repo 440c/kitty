@@ -1,3 +1,5 @@
-# kitty cat!
+# Kitty
 
-i'll resume this project at a later date.
+## Features
+- This project will be resumed at a later date.
+- It will have a open api to view profiles etc...
